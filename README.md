@@ -10,3 +10,6 @@ Note: As per the request of the client the code for this project is private and 
 
 
 ### Screenshots
+![image](https://github.com/aathikahamed/mri-admin-public/assets/64988520/7709057a-4c1d-46cc-8c3a-19cd96df495c)
+![image](https://github.com/aathikahamed/mri-admin-public/assets/64988520/d896d8b3-2767-425c-994e-ddc56a349d11)
+![image](https://github.com/aathikahamed/mri-admin-public/assets/64988520/66319425-84cf-42e5-9b7a-62185ac20b34)
